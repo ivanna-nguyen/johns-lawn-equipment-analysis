@@ -1,4 +1,4 @@
-<!# john’s lawn equipment analysis  
+# john’s lawn equipment analysis  
 
 this project explores real operational data from john’s lawn equipment to evaluate supplier quality, employee retention, and production efficiency. using excel and python, i applied regression modeling, forecasting, and learning-curve analysis to uncover insights that support data-driven business decisions.  
 
