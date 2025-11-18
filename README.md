@@ -39,4 +39,4 @@ the analysis includes predicting the effect of a supplier improvement initiative
 ---
 
 ### key takeaway  
-even without prior context, this project shows how data can reveal the story behind operational performance — turning spreadsheets into strategy and insights into action.  
+even without prior context, this project shows how data can reveal the story behind operational performance, turning spreadsheets into strategy and insights into action.
